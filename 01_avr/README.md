@@ -2,11 +2,11 @@
 
 ## Target Device
 
-| Device           | MCU    | Note                          |
-|------------------|------------|------------------------------ |
-| Arduino Uno     | ATmega328P       |  |
-| Arduino Nano     | ATmega328P       |  |
-| Arduino Leonardo     | ATMega32U4       | supports usb device role |
+| Device           | MCU    | Note                          | P(CL) | P(IDE) |
+|------------------|------------|------------------------------ |------|------|
+| Arduino Uno     | ATmega328P       |  |?|?|
+| Arduino Nano     | ATmega328P       |  |?|?|
+| Arduino Leonardo     | ATMega32U4       | supports usb device role |?|?|
 
 ## Programmer(command line tool)
 1.  avrdude([url1](http://kemarin-tech.blog.jp/archives/23415917.html), [url2](https://make.kosakalab.com/make/electronic-work/avr-dev_for_raspberry-pi/)), for Raspberry Pi(raspbian), Linux, Windows. use hex file

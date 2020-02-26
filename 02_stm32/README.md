@@ -1,9 +1,9 @@
 # STM32
 
-| Device           |  Note                          |
-|------------------|------------------------------ |
-| ST Nucleo Board STM32F401RE     | USB 2.0 OTG, Cortex-M4 |
-| ST Nucleo Board STM32F042K6     | compact(32-pin), Cortex-M0 |
+| Device           |  Note                          | P(CL) | P(WEB) | P(IDE) |
+|------------------|------------------------------|------|------|------|
+| ST Nucleo Board STM32F401RE     | USB 2.0 OTG, Cortex-M4 |?|?|?|
+| ST Nucleo Board STM32F042K6     | compact(32-pin), Cortex-M0 |?|?|?|
 
 ## Programmer(command line)
 1. [mbed CLI with VSCode](https://os.mbed.com/users/MACRUM/notebook/vscode-stm32-openocd/)

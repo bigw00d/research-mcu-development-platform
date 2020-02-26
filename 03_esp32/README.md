@@ -2,12 +2,12 @@
 
 ## Target Device
 
-| Device           |  Note                          |
-|------------------|------------------------------ |
-| ESP32-DevKitC     |   |
-| NodeMCU-32S     |   |
-| ESPr® Developer 32     |   |
-| SparkFun Thing Plus     | 16 MB Flash ROM |
+| Device           |  Note                          |P(CL) | P(IDE) |
+|------------------|------------------------------ |------|------|
+| ESP32-DevKitC     |   |?|?|
+| NodeMCU-32S     |   |?|?|
+| ESPr® Developer 32     |   |?|?|
+| SparkFun Thing Plus     | 16 MB Flash ROM |?|?|
 
 ## Programmer(command line)
 1. [ESP-IDF](https://qiita.com/TwDaiki/items/862f61c9d3888e990209#%E6%89%8B%E9%A0%86%EF%BC%92mruby%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B)
