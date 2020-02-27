@@ -2,17 +2,17 @@
 
 ## Target Device
 
-| Device           |  Note                          |P(CL) | P(IDE) |
+| Device           |  Note                          |CLT | IDE |
 |------------------|------------------------------ |------|------|
 | ESP32-DevKitC     |   |?|?|
 | NodeMCU-32S     |   |?|?|
 | ESPr® Developer 32     |   |?|?|
 | SparkFun Thing Plus     | 16 MB Flash ROM |?|?|
 
-## Programmer(command line)
+## Command Line Tool
 1. [ESP-IDF](https://qiita.com/TwDaiki/items/862f61c9d3888e990209#%E6%89%8B%E9%A0%86%EF%BC%92mruby%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B)
 
-## Programmer(IDE)
+## IDE
 1.  [Arduino IDE](https://garretlab.web.fc2.com/arduino/esp32/installation/)
 1.  [Platform IO with vscode](https://www.media.lab.uec.ac.jp/?page_id=1414)
 
