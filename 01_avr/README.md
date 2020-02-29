@@ -7,6 +7,7 @@
 | Arduino Uno     | ATmega328P       |  |?|〇|
 | Arduino Nano     | ATmega328P       |  |?|〇|
 | Arduino Leonardo     | ATMega32U4       | supports usb device role |?|〇|
+| Digispark     | ATtiny85       | exists mouse and keyboard library |?|[〇](https://github.com/digistump/DigistumpArduino)|
 
 ## Command Line Tool
 1.  **avrdude**, for Raspberry Pi(raspbian), Linux, Windows. use hex file ([URL1](http://kemarin-tech.blog.jp/archives/23415917.html), [URL2](https://make.kosakalab.com/make/electronic-work/avr-dev_for_raspberry-pi/))
