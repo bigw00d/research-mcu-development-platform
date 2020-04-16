@@ -25,7 +25,7 @@ C:\WorkSpace\mbed-repo\mbedos2-cli-ps2controller-host>copy BUILD\LPC1768\GCC_ARM
 
 ### Related Links
 1. [mbed CLI with VSCode](https://os.mbed.com/users/ytsuboi/notebook/ja-setup-mbed-cli-on-windows/)
-
+1. [Mbed OS 2のサポートがいつ終わっても良いようにローカル環境を構築する方法【改訂版】](https://qiita.com/toyowata/items/86a312158187cafe3f7d)
 ## WEB IDE
 1.  mbed([url1](https://os.mbed.com/platforms/mbed-LPC1768/))
 
