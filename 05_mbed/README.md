@@ -2,6 +2,15 @@
 
 ## mbed CLI
 
+1. install
+    1. do web site procedure(https://qiita.com/toyowata/items/86a312158187cafe3f7d)
+    1. install 
+```txt
+C:\WorkSpace\mbedos2-cli-ps2controller-host>mbed config root .
+C:\WorkSpace\mbedos2-cli-ps2controller-host>mbed compile -m LPC1768 -t GCC_ARM
+C:\WorkSpace\mbedos2-cli-ps2controller-host>copy BUILD\LPC1768\GCC_ARM\mbedos2-cli-ps2controller-host.bin D:\
+```
+
 1. build & upload project
 ```txt
 C:\WorkSpace\mbedos2-cli-ps2controller-host>mbed config root .
